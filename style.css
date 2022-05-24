@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    text-decoration: solid;
+    font-size: bold;
+}
+
+img
+{
+    height: 600;
+    width: 1325;
+}
+
+h2
+{
+    text-align: center;
+    color: crimson;
+    font-style: italic;
+}
